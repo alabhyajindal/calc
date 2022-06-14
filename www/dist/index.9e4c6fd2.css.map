@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["body {\n  max-width: 30rem;\n  margin: 0 auto;\n  font-family: sans-serif;\n  background-color: #011627;\n  color: #d6deeb;\n}\n"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}

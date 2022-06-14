@@ -1,0 +1,4 @@
+/www/node_modules
+/www/dist
+/www/.bin
+/www/.parcel-cache

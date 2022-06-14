@@ -142,8 +142,8 @@
       this[globalName] = mainExports;
     }
   }
-})({"bHZ4D":[function(require,module,exports) {
-module.exports = require("./helpers/browser/js-loader")(require("./helpers/bundle-url").getBundleURL("8btJS") + "web.3d214d75.js" + "?" + Date.now()).catch((err)=>{
+})({"oScbW":[function(require,module,exports) {
+module.exports = require("./helpers/browser/js-loader")(require("./helpers/bundle-url").getBundleURL("8btJS") + "www.3d214d75.js" + "?" + Date.now()).catch((err)=>{
     delete module.bundle.cache[module.id];
     throw err;
 }).then(()=>module.bundle.root("bB7Pu"));
@@ -249,6 +249,6 @@ exports.getOrigin = getOrigin;
 // A dependency graph that contains any wasm must all be imported
 // asynchronously. This `bootstrap.js` file does the single async import, so
 // that no one else needs to worry about it again.
-parcelRequire9de1("bHZ4D").catch((e)=>console.error("Error importing `index.js`:", e));
+parcelRequire9de1("oScbW").catch((e)=>console.error("Error importing `index.js`:", e));
 
 //# sourceMappingURL=index.3f5a8b3f.js.map

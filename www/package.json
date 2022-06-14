@@ -1,5 +1,8 @@
 {
   "name": "create-wasm-app",
+  "sideEffects": [
+    "*.wasm"
+  ],
   "version": "0.1.0",
   "description": "create an app to consume rust-generated wasm packages",
   "main": "index.js",
